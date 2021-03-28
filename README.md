@@ -14,5 +14,5 @@
 - [x] [Using Go Templates](https://blog.gopheracademy.com/advent-2017/using-go-templates/#:~:text=Go%20templates%20are%20a%20powerful,%2Ftemplate%20and%20html%2Ftemplate%20.)  # good one
 - [ ] [Learn and Use Templates in Go](https://levelup.gitconnected.com/learn-and-use-templates-in-go-aa6146b01a38)
 - [ ] [Understanding Go’s template package](https://medium.com/@IndianGuru/understanding-go-s-template-package-c5307758fab0)
-
+- [ ] [Golang Template Example | Package Template In Golang](https://appdividend.com/2019/11/27/golang-template-example-package-template-in-golang/)
 
